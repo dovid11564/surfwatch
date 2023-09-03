@@ -1,6 +1,8 @@
 const Name = () => {
     return(
-        <div>Name</div>
+        <div className='text-red-600 border border-green-600'> Name Component
+            <div>Rockaway Beach, Queens</div>
+        </div>
     )
 }
 
